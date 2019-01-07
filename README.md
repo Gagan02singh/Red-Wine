@@ -5,3 +5,5 @@ Libraries used - ggplot2, GGally, memisc, psych
 Language - R
 Machine Learning Algorithm - Linear modelling
 
+Project link - http://rpubs.com/Gagan02singh/Red_wine
+
